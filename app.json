@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "be-the-hero-react-native",
-    "slug": "be-the-hero-react-native",
+    "name": "Be The Hero",
+    "slug": "bethehero",
     "platforms": [
       "ios",
       "android",
